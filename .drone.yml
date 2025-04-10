@@ -1,0 +1,5 @@
+pipeline:
+  ndde:
+    image: node:8.3.0
+    commands:
+        - yarn install
