@@ -9,4 +9,4 @@ steps:
     USERNAME:
       from_secret: username
   commands:
-  - go run main.go 
+  - go run main.go
